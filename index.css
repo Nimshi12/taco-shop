@@ -1,0 +1,12 @@
+tr, td {
+    padding: 10px;
+    width: 50px;
+}
+
+#page-title {
+    color: red;
+}
+
+.price {
+    color: green;
+}
